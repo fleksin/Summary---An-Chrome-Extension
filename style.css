@@ -1,0 +1,27 @@
+#mytooltip{
+  position:fixed;
+  border:5px solid #444;
+  background:white;
+  padding:10px;
+  color:#333;
+  display: inline;
+  z-index:99999;
+  width: 500px;
+  top: 10px;
+  left: 10px;
+  word-wrap:break-word;
+  
+}
+
+#maxImage{
+  max-width:500px;
+  border:1px solid;
+  text-align:center;
+
+}
+#cusPara{
+  max-width: 480px;
+   border-top-style: solid;
+   border-width: 2px;
+
+}
